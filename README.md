@@ -925,3 +925,11 @@ Your help is always appreciated :rocket:
 ## License
 
 This project is licensed under [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+
+
+
+## Local setup
+Run `npm i` in root and `/demo` folder
+Run `npm run dev` `/demo` folder
+
+After making changes in any file run `npm run build` in root folder to see those changes in demo folder.
